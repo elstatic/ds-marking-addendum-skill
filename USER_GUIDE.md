@@ -7,6 +7,10 @@
 Скачайте и установите Google Drive for desktop:
 [https://www.google.com/drive/download/](https://www.google.com/drive/download/)
 
+Прямые ссылки на установщики:
+- Windows: [GoogleDriveSetup.exe](https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe)
+- macOS: [GoogleDrive.dmg](https://dl.google.com/drive-file-stream/GoogleDrive.dmg)
+
 Войдите в рабочий Google-аккаунт и дождитесь синхронизации папки с договорами.
 
 ## 2) Добавить папку в Codex как проект
