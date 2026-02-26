@@ -1,0 +1,4 @@
+interface:
+  display_name: "ДС Маркировка"
+  short_description: "Генерация ДС по маркировке рекламы"
+  default_prompt: "Use $ds-marking-addendum to prepare addenda from a template for selected clients, save files near source contracts, and return links."
