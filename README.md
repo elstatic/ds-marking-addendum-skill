@@ -36,3 +36,7 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
 ```
 
 После установки перезапустите Codex, чтобы навык появился в списке.
+
+## Для пользователей без терминала
+
+См. подробную памятку: [USER_GUIDE.md](./USER_GUIDE.md).
